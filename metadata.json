@@ -1,0 +1,7 @@
+{
+  "name": "USA's Nail Bar - Luxury Salon",
+  "description": "Premium nail care services in Texas City. Experience luxury, clean, and professional nail services with high-quality products.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
